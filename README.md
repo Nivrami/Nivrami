@@ -23,9 +23,9 @@ Sécurité et interprétabilité des LLM : détecter les tentatives de jailbreak
 
 | Projet | Ce qu'il fait | Stack |
 |---|---|---|
-| [**Chatbot d'aide au triage aux urgences**](https://github.com/Nivrami/Triage_urgence_) *(projet d'équipe)* | Agent LLM + pipeline RAG qui extrait les symptômes décrits en langage naturel et aide à évaluer le degré d'urgence. Tests unitaires et d'intégration, CI GitHub Actions. | Python · SDK Mistral · ChromaDB · Pydantic · pytest |
-| [**Analyse des offres d'emploi Data & IA**](https://github.com/Nivrami/NLP---Analyse_offre_emplois) | ETL (API + web scraping), entrepôt en schéma étoile, extraction des compétences par un LLM local, visualisation interactive. | Python · SQLite · Ollama · Streamlit |
-| [**Consommation énergétique & étiquette DPE**](https://github.com/Nivrami/Projet_ENEDIS) *(projet d'équipe)* | Prévision de la consommation et classification de l'étiquette DPE, API de prédiction et tableau de bord. | scikit-learn · Flask · Docker · Streamlit |
+| [**Chatbot d'aide au triage aux urgences**](https://github.com/Nivrami/Triage_urgence_) *(projet d'équipe)* | Chatbot qui aide à évaluer le degré d'urgence d'un patient à partir des symptômes décrits en langage naturel. Tests unitaires et d'intégration, CI GitHub Actions. | Python · SDK Mistral · ChromaDB · Pydantic · pytest |
+| [**Analyse des offres d'emploi Data & IA**](https://github.com/Nivrami/NLP---Analyse_offre_emplois) | Analyse des offres d'emploi Data & IA en France : collecte, entrepôt de données et extraction automatique des compétences demandées. | Python · SQLite · Ollama · Streamlit |
+| [**Consommation énergétique & étiquette DPE**](https://github.com/Nivrami/Projet_ENEDIS) *(projet d'équipe)* | Prévision de la consommation électrique des logements et prédiction de leur étiquette DPE, avec API et tableau de bord. | scikit-learn · Flask · Docker · Streamlit |
 
 ---
 
